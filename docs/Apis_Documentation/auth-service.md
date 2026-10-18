@@ -111,7 +111,7 @@ Returns authenticated user profile.
 ```json
 {
   "_id": "user-id",
-  "name": "Anand",
+  "name": "Example",
   "email": "example@gmail.com",
   "role": "customer"
 }
