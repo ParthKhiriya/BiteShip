@@ -1752,8 +1752,8 @@ docs/deployment/deployment-guide.md
 
 ### Created by
 
-**Anand Kharane**  
-**B23EE1035**  
+**Parth Khiriya**  
+**B23EE1051**  
 **IIT Jodhpur**
 
 ⭐ If you found the architecture interesting, consider starring the repository.
